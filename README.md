@@ -5,7 +5,7 @@
 * Create a web API to retrieve data from a mock database and structure it in a hierarchy before returning to the caller.
 
 ## Time
-* You can spend as long or short as you desire though under an hour would should be fine.  It does not have to be complete but show you know the main ideas of modern development.  Its up to you.
+* You can spend as long or short as you desire though under an hour would should be fine for seniors or several hours for more junior.  It does not have to be complete but show you know the main ideas of modern development.  Its up to you.
 
 ## Tasks
 * In the data positions belong to portfolios.  There are many positions for each portfolio.  Take a look at /src/database/data.
